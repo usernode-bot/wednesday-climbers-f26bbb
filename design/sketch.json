@@ -1,0 +1,39 @@
+{
+  "note": "The sketch this app's creator was shown when they made it (design/sketch.html). The first version keeps its layout, its words and its accent; any deviation is listed under Assumptions with the reason.",
+  "job": "Show who's climbing this Wednesday and count down to it",
+  "words": {
+    "drive": "Can drive",
+    "coming": "in",
+    "a session": "session",
+    "attending": "climbing",
+    "the group": "Wednesday Climbers"
+  },
+  "accent": {
+    "dark": "#ff6b6b",
+    "light": "#c41e3a"
+  },
+  "layout": [
+    "Header with title and tagline",
+    "Countdown box to next Wednesday",
+    "Your status card (in or out, can you drive)",
+    "Who's coming list with their drive status",
+    "Next outdoor day banner"
+  ],
+  "signature": "A climber's status for this week's session with driving availability",
+  "accentName": "climbing red",
+  "primaryAction": "I'm in",
+  "tokens": {
+    "light": {
+      "accent": "196 30 58",
+      "on-accent": "255 255 255",
+      "focus": "196 30 58"
+    },
+    "dark": {
+      "accent": "255 107 107",
+      "on-accent": "28 25 23",
+      "focus": "255 107 107"
+    }
+  },
+  "model": "claude-haiku-4-5",
+  "createdAt": "2026-10-05T13:08:15.006Z"
+}
